@@ -1,0 +1,14 @@
+ride_id,customer_name,pickup,drop,fare,status
+101,Rahul,Bangalore,Electronic City,350,Completed
+102,Priya,Whitefield,Marathahalli,250,Completed
+103,Arjun,Hebbal,Airport,800,Completed
+104,Sneha,Indiranagar,MG Road,200,Cancelled
+105,Kiran,Jayanagar,BTM Layout,180,Completed
+106,Anu,Bangalore,Whitefield,300,Completed
+107,Ravi,Hebbal,Airport,500,Cancelled
+108,Meena,Electronic City,Marathahalli,400,Completed
+109,John,MG Road,Indiranagar,250,Completed
+110,Divya,BTM Layout,Jayanagar,350,Completed
+111,Arun,Bangalore,Airport,ABC,Completed
+112,Neha,Whitefield,Hebbal,-100,Completed
+113,Kiran,Indiranagar,MG Road,XYZ,Cancelled
