@@ -1,0 +1,10 @@
+CAB BOOKING SUMMARY REPORT
+==========================
+
+Total Bookings: 10
+Completed Bookings: 8
+Cancelled Bookings: 2
+Invalid Records: 3
+Total Revenue: Rs. 2880.0
+Average Fare: Rs. 360.0
+
