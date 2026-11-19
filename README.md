@@ -1,5 +1,3 @@
-# cab_Booking_Data_Processing_Project
-Python project for cab booking data processing and analysis
 
 # Cab Booking Data Processing Project
 
@@ -80,4 +78,3 @@ Average Fare: Rs. 395
 This project demonstrates how Python can
 be used to read, validate, process, and
 export structured cab booking data.
-
